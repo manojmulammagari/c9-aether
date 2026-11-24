@@ -1,0 +1,11 @@
+node_modules/
+.next/
+out/
+__pycache__/
+*.pyc
+.venv/
+.env.local
+# Keep .idea proof files, ignore personal local cache only:
+.idea/workspace.xml
+.idea/shelf/
+.idea/usage.statistics.xml
