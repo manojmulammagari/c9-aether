@@ -9,3 +9,10 @@ __pycache__/
 .idea/workspace.xml
 .idea/shelf/
 .idea/usage.statistics.xml
+
+# Local playbook / audit docs:
+*c9*aether*.md
+*C9*AETHER*.md
+*Playbook*.md
+c9aether*
+
