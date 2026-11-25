@@ -1,0 +1,36 @@
+{
+  "base_case": {
+    "features": {
+      "atk_alive": 3.0,
+      "def_alive": 3.0,
+      "atk_control_ratio": 0.5075,
+      "def_control_ratio": 0.4925,
+      "op_alive_def": 1.0,
+      "op_exposed_area_ratio": 0.1825,
+      "op_targets_in_sight": 0.0,
+      "atk_min_site_dist": 31.0483,
+      "def_rotation_time_sec": 9.6581,
+      "spike_planted": 0.0,
+      "time_remaining_sec": 42.0,
+      "econ_diff_norm": -0.072
+    },
+    "expected_onnx_prob": 0.201501
+  },
+  "smoked_case": {
+    "features": {
+      "atk_alive": 3.0,
+      "def_alive": 3.0,
+      "atk_control_ratio": 0.5075,
+      "def_control_ratio": 0.4925,
+      "op_alive_def": 1.0,
+      "op_exposed_area_ratio": 0.135,
+      "op_targets_in_sight": 0.0,
+      "atk_min_site_dist": 31.0483,
+      "def_rotation_time_sec": 9.6581,
+      "spike_planted": 0.0,
+      "time_remaining_sec": 42.0,
+      "econ_diff_norm": -0.072
+    },
+    "expected_onnx_prob": 0.201501
+  }
+}

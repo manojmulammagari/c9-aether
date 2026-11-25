@@ -1,0 +1,31 @@
+{
+  "feature_order": [
+    "atk_alive",
+    "def_alive",
+    "atk_control_ratio",
+    "def_control_ratio",
+    "op_alive_def",
+    "op_exposed_area_ratio",
+    "op_targets_in_sight",
+    "atk_min_site_dist",
+    "def_rotation_time_sec",
+    "spike_planted",
+    "time_remaining_sec",
+    "econ_diff_norm"
+  ],
+  "coef": [
+    1.079976,
+    -1.046746,
+    1.770603,
+    -1.971892,
+    -0.166199,
+    -1.205771,
+    -0.894128,
+    -0.025495,
+    0.091303,
+    1.08853,
+    0.003543,
+    0.845769
+  ],
+  "intercept": -0.654174
+}
